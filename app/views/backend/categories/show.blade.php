@@ -1,0 +1,1 @@
+/vagrant/midori/app/views/categories/show.blade.php

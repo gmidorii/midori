@@ -1,0 +1,1 @@
+/vagrant/midori/app/views/blocks/create.blade.php
